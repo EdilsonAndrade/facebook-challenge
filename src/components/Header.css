@@ -1,0 +1,26 @@
+nav{
+  background: #4A90E2;
+  height: 64px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav > img{
+  margin-left: 40px;
+}
+nav div {
+  display: flex;
+  align-items: center;
+  margin-right: 100px;
+}
+nav div strong{
+  font-size:15px;
+  color: #FFFFFF;
+ 
+ 
+}
+
+nav div img{
+  margin-left: 5px;
+}

@@ -1,0 +1,10 @@
+div.content{
+  margin:0px auto;
+  
+  background: #F2F2F2;
+}
+
+div.content div.postList{
+  margin: 10px 0;
+  background: #FFFFFF;
+}

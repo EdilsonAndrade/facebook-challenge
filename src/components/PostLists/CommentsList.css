@@ -1,0 +1,23 @@
+
+div.principal{
+  padding:10px 20px
+}
+div.commentContent{
+  margin-top: 10px;
+  display:flex;
+  align-items: flex-start;
+  background: #ffffff;
+  width: 100%;
+  
+  
+}
+
+div.commentContent span{
+  margin-left: 10px;
+  background: #EEEEEE;
+  border-radius: 5px;
+  padding: 10px 10px;
+  font-size:13px;
+}
+
+
